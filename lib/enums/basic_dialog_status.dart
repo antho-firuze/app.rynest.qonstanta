@@ -1,0 +1,1 @@
+enum BasicDialogStatus { info, question, success, warning, error }

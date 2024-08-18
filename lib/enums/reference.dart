@@ -1,0 +1,1 @@
+List<String> listGender = ['Belum Tahu', 'Pria', 'Wanita'];

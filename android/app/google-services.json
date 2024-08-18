@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810731560074",
+    "project_id": "qonstanta-app",
+    "storage_bucket": "qonstanta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810731560074:android:892eab1efd8a7ab1ffa173",
+        "android_client_info": {
+          "package_name": "com.rynest_technology.qonstanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810731560074-93uq5r7cjdpilh2g0e2o8q2eo82mjrl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4Wzg1ZWjJIOEGxdXRAgxF7vu-QLFac8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810731560074-93uq5r7cjdpilh2g0e2o8q2eo82mjrl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
